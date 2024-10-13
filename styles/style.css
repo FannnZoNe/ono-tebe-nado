@@ -223,7 +223,7 @@
   color: #ffffff;
   text-transform: uppercase;
   text-decoration: underline;
-  text-decoration-style: solid;
+  text-decoration-skip-ink: none;
   position: relative;
 }
 
